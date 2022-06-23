@@ -36,5 +36,8 @@
 </a>
 <p> </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangnguyen0403&repo=sheet_loader_localization&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangnguyen0403&repo=sheet_loader_localization" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangnguyen0403&repo=mvvm_architecture" />
 </a>
