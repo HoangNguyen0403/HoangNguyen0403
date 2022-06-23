@@ -6,12 +6,12 @@
 
 #### Languages & Tools:
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=social&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=social&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=social&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=social&logo=android&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=social&logo=gitlab&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=social&logo=markdown&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=Dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 
 #### Blogs:
