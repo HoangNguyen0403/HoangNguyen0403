@@ -31,6 +31,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangnguyen0403&show_icons=true&locale=en&width=400" alt="hoangnguyen0403" /></p>
 
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HoangNguyen0403)](https://git.io/streak-stats)
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangnguyen0403&repo=sheet_loader_localization&show_owner=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNguyen0403)](https://git.io/streak-stats" />
+</a>
