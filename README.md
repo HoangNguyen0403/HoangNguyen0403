@@ -17,6 +17,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Widgets in Flutter — Flutter Basic Programming — Part 3](https://hoangnguyen0403.medium.com/widgets-in-flutter-flutter-basic-programming-part-3-38af9b070a90?source=rss-9425c1fb6e6b------2)
+- [Flutter Installation — Flutter Basic Programming — Part 2](https://hoangnguyen0403.medium.com/flutter-installation-flutter-basic-programming-part-2-256628fb687?source=rss-9425c1fb6e6b------2)
+- [Before start with Flutter — Flutter Programming — Part 1](https://hoangnguyen0403.medium.com/before-start-with-flutter-flutter-programming-part-1-7226567f785e?source=rss-9425c1fb6e6b------2)
+- [Understanding Dart Null-Safety — Dart Programming — Part 7](https://hoangnguyen0403.medium.com/understanding-dart-null-safety-dart-programming-part-7-53695d82cc05?source=rss-9425c1fb6e6b------2)
+- [Control Flow statement on Dart — Dart Programming — Part 6](https://hoangnguyen0403.medium.com/control-flow-statement-on-dart-dart-programming-part-6-c94c2d5d8c5a?source=rss-9425c1fb6e6b------2)
+- [Dart Classes— Dart Programming — Part 5](https://hoangnguyen0403.medium.com/dart-classes-dart-programming-part-5-1136e78f3d1a?source=rss-9425c1fb6e6b------2)
+- [Dart Operators — Dart Programming — Part 4](https://hoangnguyen0403.medium.com/dart-operators-dart-programming-part-4-f304d941c541?source=rss-9425c1fb6e6b------2)
+- [Hey! Dart variables — Dart programming — Part 3](https://hoangnguyen0403.medium.com/hey-dart-variables-dart-programming-part-3-c7ba764cfc91?source=rss-9425c1fb6e6b------2)
+- [A tour with Dart syntax — Dart programming — Part 2](https://hoangnguyen0403.medium.com/a-tour-with-dart-syntax-dart-programming-part-2-f633e1e0c367?source=rss-9425c1fb6e6b------2)
+- [Quick looking into Dart — Dart Programming](https://hoangnguyen0403.medium.com/quick-looking-into-dart-dart-programming-a647013795d?source=rss-9425c1fb6e6b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
