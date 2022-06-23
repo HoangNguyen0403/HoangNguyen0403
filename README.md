@@ -21,6 +21,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNguyen0403&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&layout=compact" />
 </div>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#13](https://github.com/jamesgeorge007/cli-prompts-test/pull/13) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+<!--END_SECTION:activity-->
+
+---
+
 <!---
 HoangNguyen0403/HoangNguyen0403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
