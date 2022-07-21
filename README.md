@@ -48,8 +48,8 @@
 </a>
 <p> </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangnguyen0403&repo=sheet_loader_localization" />
+  <img align="center" src="https://github.com/HoangNguyen0403/sheet_loader_localization" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangnguyen0403&repo=mvvm_architecture" />
+  <img align="center" src="https://github.com/HoangNguyen0403/mvvm_architecture" />
 </a>
