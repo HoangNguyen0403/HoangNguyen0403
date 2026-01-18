@@ -23,8 +23,8 @@
 Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and cross-platform development, currently delivering high-impact solutions at **VMO Holding**. Passionate about creating performant, scalable mobile applications that solve real business challenges and enhance user experiences.
 
 ### ⚡ Impact Snapshot
-- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the last **5 years** (shipped to Google Play/App Store; e.g., MVVM Architecture template).
-- 📈 Improved app performance by **up to 40%** in recent releases through profiling, caching, and lean architectures (startup, frame rate, and memory metrics; see AI Code Reviewer/Sheet Loader releases).
+- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the last **5 years** (shipped to Google Play/App Store).
+- 📈 Improved app performance by **up to 40%** in recent releases through profiling, caching, and lean architectures (startup, frame rate, and memory metrics monitored in release analytics).
 - 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production (monitored via analytics and release dashboards).
 
 ### 🎯 What I Bring to Your Organization
@@ -85,7 +85,7 @@ I actively contribute to the open-source community with production-ready tools a
 
 ### 🏆 Developer Highlights
 - 🤖 Built reusable **AI-driven code review pipelines** to catch regressions before merge.
-- 🌐 Created **localization automation** that cut release QA cycles by **30%** (measured across 3 release trains vs prior baseline).
+- 🌐 Created **localization automation** that cut release QA cycles by **30%** (measured across 3 release cycles vs prior baseline).
 - ⚙️ Authored **scalable MVVM templates** that speed up new Flutter app kickoffs.
 
 <table>
