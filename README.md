@@ -24,8 +24,8 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 
 ### ⚡ Impact Snapshot
 - 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the past **5 years**, shipped to Google Play/App Store.
-- 📈 Reduced app startup time from **3.0s → 1.8s** (~40%) across 2024 releases through profiling, caching, and lean architectures (metrics monitored in release analytics).
-- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production (monitored via analytics and release dashboards over the last 12 months).
+- 📈 Reduced app startup time from **3.0s → 1.8s** (~40%) across 2024 releases through profiling, caching, and lean architectures.
+- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production.
 
 ### 🎯 What I Bring to Your Organization
 
@@ -81,7 +81,7 @@ I actively contribute to the open-source community with production-ready tools a
 
 ### 🏆 Developer Highlights
 - 🤖 Built reusable **AI-driven code review pipelines** to catch regressions before merge.
-- 🌐 Created **localization automation** that cut release QA cycle time by **30%** (reduced from 10 days to 7 days across 3 release cycles).
+- 🌐 Created **localization automation** that cut release QA cycle time by **30%** across 3 release cycles.
 - ⚙️ Authored **scalable MVVM templates** that speed up new Flutter app kickoffs.
 
 <table>
@@ -180,7 +180,7 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 ## 🧠 Principles I Work By
 - Optimize for **readability first**, then performance.
 - Automate repeatable tasks through **CI/CD and linting gates**.
-- Measure success with **user experience, reliability, and maintainability** (crash-free rates, startup time, accessibility checks).
+- Measure success with **user experience, reliability, and maintainability** (startup time, accessibility checks, crash-free rates).
 
 ## 🤝 Let's Connect
 
