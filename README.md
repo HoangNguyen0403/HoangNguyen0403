@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/hoang-nguyen-8bb8a3238"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:hoanghuynguyen0403@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://medium.com/@hoangnguyen0403"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hoangnguyen0403&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HoangNguyen0403&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -31,12 +31,12 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ## 💼 Core Competencies
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart)
-![Android](https://img.shields.io/badge/Android-Advanced-3DDC84?style=flat-square&logo=android)
-![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=flat-square&logo=kotlin)
-![iOS](https://img.shields.io/badge/iOS-Advanced-000000?style=flat-square&logo=ios)
-![Swift](https://img.shields.io/badge/Swift-Advanced-FA7343?style=flat-square&logo=swift)
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=for-the-badge&logo=dart)
+![Android](https://img.shields.io/badge/Android-Advanced-3DDC84?style=for-the-badge&logo=android)
+![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=for-the-badge&logo=kotlin)
+![iOS](https://img.shields.io/badge/iOS-Advanced-000000?style=for-the-badge&logo=ios)
+![Swift](https://img.shields.io/badge/Swift-Advanced-FA7343?style=for-the-badge&logo=swift)
 
 ### Architecture & Patterns
 - MVVM (Model-View-ViewModel)
@@ -74,8 +74,8 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangnguyen0403&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoangnguyen0403&show_icons=true&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoangNguyen0403&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoangNguyen0403&show_icons=true&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
