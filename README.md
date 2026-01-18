@@ -50,7 +50,7 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter)
@@ -167,7 +167,7 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 
 ## 🎯 What I'm Focusing On
 - 🧪 Experimenting with **AI copilots** inside mobile CI/CD workflows.
-- 📱 Building **highly-performant Flutter UI kits** with accessibility baked in.
+- 📱 Building **high-performance Flutter UI kits** with accessibility baked in.
 - 🧭 Sharing **architecture playbooks** for fast-moving product teams.
 
 ## 📊 GitHub Analytics
