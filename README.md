@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Exciting%20Roles-8A2BE2?style=for-the-badge&logo=github" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Open%20To-Exciting%20Roles-8A2BE2?style=for-the-badge&logo=github" alt="Open to work" />
   <img src="https://img.shields.io/badge/Location-Hanoi,%20Vietnam-0e75b6?style=for-the-badge&logo=google-maps" alt="Location" />
 </p>
 
@@ -23,9 +23,9 @@
 Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and cross-platform development, currently delivering high-impact solutions at **VMO Holding**. Passionate about creating performant, scalable mobile applications that solve real business challenges and enhance user experiences.
 
 ### ⚡ Impact Snapshot
-- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise.
-- 📈 Improved app performance by **up to 40%** with profiling, caching, and lean architectures.
-- 🔒 Championed secure-by-default coding with CI quality gates and crash-free targets.
+- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the last **5 years**.
+- 📈 Improved app performance by **up to 40%** in recent releases through profiling, caching, and lean architectures.
+- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production.
 
 ### 🎯 What I Bring to Your Organization
 
