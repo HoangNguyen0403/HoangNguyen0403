@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Exciting%20Roles-8A2BE2?style=for-the-badge&logo=github" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Open%20To-Exciting%20Roles-8A2BE2?style=for-the-badge" alt="Open to work" />
   <img src="https://img.shields.io/badge/Location-Hanoi,%20Vietnam-0e75b6?style=for-the-badge&logo=google-maps" alt="Location" />
 </p>
 
@@ -42,8 +42,6 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ## 💼 Core Competencies & Technical Expertise
 
 ### 🧰 Tech Toolbox
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
