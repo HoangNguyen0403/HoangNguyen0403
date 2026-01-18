@@ -42,10 +42,6 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ## 💼 Core Competencies & Technical Expertise
 
 ### 🧰 Tech Toolbox
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -85,7 +81,7 @@ I actively contribute to the open-source community with production-ready tools a
 
 ### 🏆 Developer Highlights
 - 🤖 Built reusable **AI-driven code review pipelines** to catch regressions before merge.
-- 🌐 Created **localization automation** that cut release QA cycle time by **30%** (e.g., 10 days to 7 days across 3 release cycles vs prior baseline).
+- 🌐 Created **localization automation** that cut release QA cycle time by **30%** (e.g., 10 days to 7 days across 3 release cycles vs prior quarter baseline).
 - ⚙️ Authored **scalable MVVM templates** that speed up new Flutter app kickoffs.
 
 <table>
@@ -184,7 +180,7 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 ## 🧠 Principles I Work By
 - Optimize for **readability first**, then performance.
 - Automate repeatable tasks through **CI/CD and linting gates** (pipelines + pre-merge checks).
-- Measure success with **user experience, reliability, and maintainability** (crash-free rates, startup time, a11y checks).
+- Measure success with **user experience, reliability, and maintainability** (crash-free rates, startup time, accessibility checks).
 
 ## 🤝 Let's Connect
 
