@@ -23,9 +23,9 @@
 Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and cross-platform development, currently delivering high-impact solutions at **VMO Holding**. Passionate about creating performant, scalable mobile applications that solve real business challenges and enhance user experiences.
 
 ### ⚡ Impact Snapshot
-- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the last **5 years** (shipped to Google Play/App Store).
-- 📈 Improved app performance by **up to 40%** in recent releases through profiling, caching, and lean architectures (startup, frame rate, and memory metrics).
-- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production (monitored via analytics).
+- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the last **5 years** (shipped to Google Play/App Store; e.g., MVVM Architecture template).
+- 📈 Improved app performance by **up to 40%** in recent releases through profiling, caching, and lean architectures (startup, frame rate, and memory metrics; see AI Code Reviewer/Sheet Loader releases).
+- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production (monitored via analytics and release dashboards).
 
 ### 🎯 What I Bring to Your Organization
 
@@ -85,7 +85,7 @@ I actively contribute to the open-source community with production-ready tools a
 
 ### 🏆 Developer Highlights
 - 🤖 Built reusable **AI-driven code review pipelines** to catch regressions before merge.
-- 🌐 Created **localization automation** that cut release QA cycles by 30%.
+- 🌐 Created **localization automation** that cut release QA cycles by **30%** (measured across 3 release trains vs prior baseline).
 - ⚙️ Authored **scalable MVVM templates** that speed up new Flutter app kickoffs.
 
 <table>
@@ -183,8 +183,8 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 
 ## 🧠 Principles I Work By
 - Optimize for **readability first**, then performance.
-- Automate repeatable tasks through **CI/CD and linting gates**.
-- Measure success with **user experience, reliability, and maintainability**.
+- Automate repeatable tasks through **CI/CD and linting gates** (pipelines + pre-merge checks).
+- Measure success with **user experience, reliability, and maintainability** (crash-free rates, startup time, a11y checks).
 
 ## 🤝 Let's Connect
 
