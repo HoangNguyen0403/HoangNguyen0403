@@ -1,5 +1,5 @@
 <h1 align="center">Nguyen Huy Hoang</h1>
-<h3 align="center">Senior Mobile Engineer | Flutter & Cross-Platform Specialist</h3>
+<h3 align="center">Senior Mobile Engineer | Flutter & Cross-Platform Development Specialist</h3>
 <p align="center">
   <em>Building scalable mobile solutions that drive business growth and user engagement</em>
 </p>
@@ -24,11 +24,12 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 - ✅ **Cross-Platform Expertise**: Proficient in Flutter, Android (Kotlin), and iOS (Swift) development
 - ✅ **Innovation Mindset**: Actively exploring emerging technologies (IoT, AR/VR) to stay ahead of industry trends
 - ✅ **Knowledge Sharing**: Regular technical writer on Medium, contributing to the developer community
+- ✅ **Open Source Contributor**: Active contributor to public repositories, supporting the Flutter and mobile development community
 - ✅ **Collaborative Spirit**: Open to partnerships, open-source contributions, and freelance opportunities
 
 ---
 
-## 💼 Core Competencies
+## 💼 Core Competencies & Technical Expertise
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter)
@@ -41,15 +42,16 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ### Architecture & Patterns
 - MVVM (Model-View-ViewModel)
 - Clean Architecture
+- BLoC Pattern
 - Repository Pattern
 - State Management (Provider, Bloc, Riverpod)
 
 ### Additional Skills
 - RESTful API Integration
-- Git Version Control
-- CI/CD Pipeline Integration
-- Agile/Scrum Methodologies
+- Git Version Control & CI/CD
 - Code Review & Quality Assurance
+- Agile/Scrum Methodologies
+- Performance Optimization
 
 ### Emerging Technologies
 - Internet of Things (IoT)
@@ -58,29 +60,60 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Open Source Contributions
 
-<p align="center">
-  <a href="https://github.com/HoangNguyen0403/sheet_loader_localization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=sheet_loader_localization&theme=default" alt="Sheet Loader Localization" />
-  </a>
-  <a href="https://github.com/HoangNguyen0403/mvvm_architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=mvvm_architecture&theme=default" alt="MVVM Architecture" />
-  </a>
-</p>
+I actively contribute to the open-source community with production-ready tools and frameworks that benefit developers worldwide.
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoangNguyen0403&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoangNguyen0403&show_icons=true&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNguyen0403&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Agent Skills Standard</h3>
+      <p align="center">
+        <a href="https://github.com/HoangNguyen0403/agent-skills-standard">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=agent-skills-standard&theme=default" alt="Agent Skills Standard"/>
+        </a>
+      </p>
+      <p align="center">
+        Standardized skill definitions and interfaces for AI agents, promoting interoperability and consistency
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Sheet Loader Localization</h3>
+      <p align="center">
+        <a href="https://github.com/HoangNguyen0403/sheet_loader_localization">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=sheet_loader_localization&theme=default" alt="Sheet Loader"/>
+        </a>
+      </p>
+      <p align="center">
+        Streamlined localization solution for Flutter apps with Google Sheets integration
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">AI Code Reviewer</h3>
+      <p align="center">
+        <a href="https://github.com/HoangNguyen0403/ai_code_reviewer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=ai_code_reviewer&theme=default" alt="AI Code Reviewer"/>
+        </a>
+      </p>
+      <p align="center">
+        AI-powered code review tool for automated quality assurance and best practice enforcement
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">MVVM Architecture</h3>
+      <p align="center">
+        <a href="https://github.com/HoangNguyen0403/mvvm_architecture">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=mvvm_architecture&theme=default" alt="MVVM Architecture"/>
+        </a>
+      </p>
+      <p align="center">
+        Production-ready MVVM architecture template for scalable Flutter applications
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -94,7 +127,8 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 - [Before start with Flutter — Flutter Programming — Part 1](https://hoangnguyen0403.medium.com/before-start-with-flutter-flutter-programming-part-1-7226567f785e?source=rss-9425c1fb6e6b------2)
 - [Understanding Dart Null-Safety — Dart Programming — Part 7](https://hoangnguyen0403.medium.com/understanding-dart-null-safety-dart-programming-part-7-53695d82cc05?source=rss-9425c1fb6e6b------2)
 - [Control Flow statement on Dart — Dart Programming — Part 6](https://hoangnguyen0403.medium.com/control-flow-statement-on-dart-dart-programming-part-6-c94c2d5d8c5a?source=rss-9425c1fb6e6b------2)
-- [Dart Classes— Dart Programming — Part 5](https://hoangnguyen0403.medium.com/dart-classes-dart-programming-part-5-1136e78f3d1a?source=rss-9425c1fb6e6b------2)
+- [Dart Classes — Dart Programming — Part 5](https://hoangnguyen0403.medium.com/dart-classes-dart-programming-part-5-1136e78f3d1a?source=rss-9425c1fb6e6b------2)
+
 - [Dart Operators — Dart Programming — Part 4](https://hoangnguyen0403.medium.com/dart-operators-dart-programming-part-4-f304d941c541?source=rss-9425c1fb6e6b------2)
 - [Hey! Dart variables — Dart programming — Part 3](https://hoangnguyen0403.medium.com/hey-dart-variables-dart-programming-part-3-c7ba764cfc91?source=rss-9425c1fb6e6b------2)
 - [A tour with Dart syntax — Dart programming — Part 2](https://hoangnguyen0403.medium.com/a-tour-with-dart-syntax-dart-programming-part-2-f633e1e0c367?source=rss-9425c1fb6e6b------2)
@@ -105,6 +139,19 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HoangNguyen0403&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoangNguyen0403&show_icons=true&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNguyen0403&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
@@ -112,6 +159,7 @@ I'm always interested in discussing:
 - 🤝 **Collaboration** on innovative projects
 - 💡 **Consulting** for mobile app architecture and development
 - 🎯 **Freelance Projects** that challenge and inspire
+- 🌟 **Open Source Contributions** and community initiatives
 
 ### 📬 Contact Information
 
