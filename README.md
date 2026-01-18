@@ -23,9 +23,9 @@
 Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and cross-platform development, currently delivering high-impact solutions at **VMO Holding**. Passionate about creating performant, scalable mobile applications that solve real business challenges and enhance user experiences.
 
 ### ⚡ Impact Snapshot
-- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the last **5 years**.
-- 📈 Improved app performance by **up to 40%** in recent releases through profiling, caching, and lean architectures.
-- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production.
+- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the last **5 years** (shipped to Google Play/App Store).
+- 📈 Improved app performance by **up to 40%** in recent releases through profiling, caching, and lean architectures (startup, frame rate, and memory metrics).
+- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production (monitored via analytics).
 
 ### 🎯 What I Bring to Your Organization
 
