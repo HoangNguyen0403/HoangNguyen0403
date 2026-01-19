@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Exciting%20Roles-8A2BE2?style=for-the-badge" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Location-Hanoi,%20Vietnam-0e75b6?style=for-the-badge&logo=google-maps" alt="Location" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/hoang-nguyen-8bb8a3238"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:hoanghuynguyen0403@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
   <a href="https://medium.com/@hoangnguyen0403"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium" alt="Medium" /></a>
@@ -16,6 +21,11 @@
 ## 👨‍💼 Professional Summary
 
 Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and cross-platform development, currently delivering high-impact solutions at **VMO Holding**. Passionate about creating performant, scalable mobile applications that solve real business challenges and enhance user experiences.
+
+### ⚡ Impact Snapshot
+- 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the past **5 years**, shipped to Google Play/App Store.
+- 📈 Reduced app startup time from **3.0s → 1.8s** (~40%) across 2024 releases through profiling, caching, and lean architectures.
+- 🔒 Championed secure-by-default coding with CI quality gates and **99%+ crash-free** targets in production.
 
 ### 🎯 What I Bring to Your Organization
 
@@ -30,6 +40,11 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ---
 
 ## 💼 Core Competencies & Technical Expertise
+
+### 🧰 Tech Toolbox
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter)
@@ -63,6 +78,11 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ## 🚀 Featured Projects & Open Source Contributions
 
 I actively contribute to the open-source community with production-ready tools and frameworks that benefit developers worldwide.
+
+### 🏆 Developer Highlights
+- 🤖 Built reusable **AI-driven code review pipelines** to catch regressions before merge.
+- 🌐 Created **localization automation** that cut release QA cycle time by **30%** across 3 release cycles.
+- ⚙️ Authored **scalable MVVM templates** that speed up new Flutter app kickoffs.
 
 <table>
   <tr>
@@ -138,6 +158,11 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 
 ---
 
+## 🎯 What I'm Focusing On
+- 🧪 Experimenting with **AI copilots** inside mobile CI/CD workflows.
+- 📱 Building **high-performance Flutter UI kits** with accessibility baked in.
+- 🧭 Sharing **architecture playbooks** for fast-moving product teams.
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -150,6 +175,11 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 </p>
 
 ---
+
+## 🧠 Principles I Work By
+- Optimize for **readability first**, then performance.
+- Automate repeatable tasks through **CI/CD and linting gates**.
+- Measure success with **user experience, reliability, and maintainability** (startup time, accessibility checks, crash-free rates).
 
 ## 🤝 Let's Connect
 
