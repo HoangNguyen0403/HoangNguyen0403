@@ -174,34 +174,26 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <a href="https://github.com/HoangNguyen0403?tab=repositories">
-        <strong>6</strong><br />
-        Public repositories
-      </a>
+      <strong>6</strong><br />
+      Public repositories
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/HoangNguyen0403?tab=repositories">
-        <strong>322</strong><br />
-        Stars earned
-      </a>
+      <strong>322</strong><br />
+      Stars earned
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/HoangNguyen0403?tab=repositories">
-        <strong>103</strong><br />
-        Repository forks
-      </a>
+      <strong>103</strong><br />
+      Repository forks
     </td>
     <td align="center" width="25%">
-      <a href="https://github.com/HoangNguyen0403?tab=repositories">
-        <strong>Dart</strong><br />
-        Most used language
-      </a>
+      <strong>Dart</strong><br />
+      Most used language
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>Primary public languages: Dart, TypeScript, Python, and Objective-C.</sub>
+  <sub>Primary public languages: Dart, TypeScript, Python, and Objective-C • Public snapshot refreshed in March 2026 • <a href="https://github.com/HoangNguyen0403?tab=repositories">Browse repositories</a></sub>
 </p>
 
 <p align="center">
