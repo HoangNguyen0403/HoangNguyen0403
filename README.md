@@ -165,22 +165,21 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 - 📱 Shipping **high-performance mobile experiences** with accessibility and maintainability baked in.
 - 🧭 Building **reusable engineering standards** that help teams move faster across stacks.
 
-## 📊 GitHub Analytics
+### 📈 GitHub History
 
 <p align="center">
-  <a href="https://github.com/HoangNguyen0403?tab=followers">
-    <img src="https://img.shields.io/github/followers/HoangNguyen0403?label=Followers&logo=github&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  <a href="https://github.com/HoangNguyen0403">
+    <img src="https://github-readme-stats.vercel.app/api?username=HoangNguyen0403&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics showing Hoang Nguyen's commits, stars, and overall repository activity" />
   </a>
   <a href="https://github.com/HoangNguyen0403?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-Explore%20Projects-0e75b6?style=for-the-badge&logo=github" alt="Public repositories" />
-  </a>
-  <a href="https://github.com/HoangNguyen0403">
-    <img src="https://img.shields.io/badge/Contribution%20Activity-View%20Profile-0e75b6?style=for-the-badge&logo=github" alt="Contribution activity" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNguyen0403&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Most used programming languages across Hoang Nguyen's repositories" />
   </a>
 </p>
 
 <p align="center">
-  Prefer browsing my GitHub profile directly for the most accurate view of current repositories, contribution activity, and open-source work.
+  <a href="https://github.com/HoangNguyen0403">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangNguyen0403&bg_color=0d1117&color=8A2BE2&line=0e75b6&point=58a6ff&area=true&hide_border=true" alt="GitHub contribution activity for Hoang Nguyen over the past year" />
+  </a>
 </p>
 
 ---
