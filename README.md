@@ -165,24 +165,6 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 - 📱 Shipping **high-performance mobile experiences** with accessibility and maintainability baked in.
 - 🧭 Building **reusable engineering standards** that help teams move faster across stacks.
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/HoangNguyen0403?tab=followers">
-    <img src="https://img.shields.io/github/followers/HoangNguyen0403?label=Followers&logo=github&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/HoangNguyen0403?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-Explore%20Projects-0e75b6?style=for-the-badge&logo=github" alt="Public repositories" />
-  </a>
-  <a href="https://github.com/HoangNguyen0403">
-    <img src="https://img.shields.io/badge/Contribution%20Activity-View%20Profile-0e75b6?style=for-the-badge&logo=github" alt="Contribution activity" />
-  </a>
-</p>
-
-<p align="center">
-  Prefer browsing my GitHub profile directly for the most accurate view of current repositories, contribution activity, and open-source work.
-</p>
-
 ### 📈 GitHub History
 
 <p align="center">
