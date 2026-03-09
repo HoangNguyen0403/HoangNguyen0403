@@ -168,12 +168,19 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoangNguyen0403&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoangNguyen0403&show_icons=true&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
+  <a href="https://github.com/HoangNguyen0403?tab=followers">
+    <img src="https://img.shields.io/github/followers/HoangNguyen0403?label=Followers&logo=github&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/HoangNguyen0403?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-Explore%20Projects-0e75b6?style=for-the-badge&logo=github" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/HoangNguyen0403">
+    <img src="https://img.shields.io/badge/Contribution%20Activity-View%20Profile-0e75b6?style=for-the-badge&logo=github" alt="Contribution activity" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HoangNguyen0403&theme=default&hide_border=true" alt="GitHub Streak" />
+  Prefer browsing my GitHub profile directly for the most accurate view of current repositories, contribution activity, and open-source work.
 </p>
 
 ---
