@@ -183,6 +183,23 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
   Prefer browsing my GitHub profile directly for the most accurate view of current repositories, contribution activity, and open-source work.
 </p>
 
+### 📈 GitHub History
+
+<p align="center">
+  <a href="https://github.com/HoangNguyen0403">
+    <img src="https://github-readme-stats.vercel.app/api?username=HoangNguyen0403&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" alt="Hoang Nguyen GitHub stats" />
+  </a>
+  <a href="https://github.com/HoangNguyen0403?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNguyen0403&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Top languages used by Hoang Nguyen" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HoangNguyen0403">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangNguyen0403&bg_color=0d1117&color=8A2BE2&line=0e75b6&point=58a6ff&area=true&hide_border=true" alt="Hoang Nguyen contribution graph" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 Principles I Work By
