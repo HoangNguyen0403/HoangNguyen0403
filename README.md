@@ -168,17 +168,45 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 ### 📈 GitHub History
 
 <p align="center">
-  <a href="https://github.com/HoangNguyen0403">
-    <img src="https://github-readme-stats.vercel.app/api?username=HoangNguyen0403&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub statistics showing Hoang Nguyen's commits, stars, and overall repository activity" />
-  </a>
-  <a href="https://github.com/HoangNguyen0403?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangNguyen0403&layout=compact&hide_border=true&title_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Most used programming languages across Hoang Nguyen's repositories" />
-  </a>
+  <sub>A clean, reliable snapshot of my public GitHub footprint.</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/HoangNguyen0403?tab=repositories">
+        <strong>6</strong><br />
+        Public repositories
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/HoangNguyen0403?tab=repositories">
+        <strong>322</strong><br />
+        Stars earned
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/HoangNguyen0403?tab=repositories">
+        <strong>103</strong><br />
+        Repository forks
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/HoangNguyen0403?tab=repositories">
+        <strong>Dart</strong><br />
+        Most used language
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Primary public languages: Dart, TypeScript, Python, and Objective-C.</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/HoangNguyen0403">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangNguyen0403&bg_color=0d1117&color=8A2BE2&line=0e75b6&point=58a6ff&area=true&hide_border=true" alt="GitHub contribution activity for Hoang Nguyen over the past year" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangNguyen0403&bg_color=f8fafc&color=475569&line=0f766e&point=14b8a6&area=true&hide_border=true" alt="GitHub contribution activity for Hoang Nguyen over the past year" />
   </a>
 </p>
 
