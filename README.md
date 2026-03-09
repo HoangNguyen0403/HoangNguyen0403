@@ -47,8 +47,8 @@ Results-driven **Software Engineer** with a strong foundation in **Flutter**, **
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Productive-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter)
@@ -149,7 +149,7 @@ I actively contribute to the open-source community with production-ready tools a
 
 ## 📝 Technical Writing & Thought Leadership
 
-I regularly share insights, tutorials, and best practices on **[Medium](https://medium.com/@hoangnguyen0403)**, covering Flutter fundamentals, Dart, and my growing interest in AI-enabled engineering workflows. Here are my latest articles:
+I regularly share insights, tutorials, and best practices on **[Medium](https://medium.com/@hoangnguyen0403)**, covering Flutter development, Dart, and recently exploring AI-enabled engineering workflows. Here are my latest articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [I built a CLI to manage AI Agent “Skills” using High-Density instructions &lpar;40% fewer tokens](https://hoangnguyen0403.medium.com/i-built-a-cli-to-manage-ai-agent-skills-using-high-density-instructions-40-fewer-tokens-637a11c81d5d?source=rss-9425c1fb6e6b------2)
@@ -194,7 +194,8 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
-- 💼 **Career Opportunities** in mobile, product, or AI-enabled engineering
+
+- 💼 **Career Opportunities** in mobile development, product engineering, or AI-enabled workflows
 - 🤝 **Collaboration** on innovative projects
 - 💡 **Consulting** for mobile app architecture, automation, and engineering workflows
 - 🎯 **Freelance Projects** that challenge and inspire
