@@ -99,9 +99,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="33%">
       <h3 align="center">Agent Skills Standard</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/agent-skills-standard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=agent-skills-standard&theme=default" alt="Agent Skills Standard"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/agent-skills-standard">View Repository</a></strong>
       </p>
       <p align="center">
         Standardized skill definitions and interfaces for AI agents, promoting interoperability and consistency
@@ -110,9 +108,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="33%">
       <h3 align="center">Sheet Loader Localization</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/sheet_loader_localization">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=sheet_loader_localization&theme=default" alt="Sheet Loader"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/sheet_loader_localization">View Repository</a></strong>
       </p>
       <p align="center">
         Streamlined localization solution for Flutter apps with Google Sheets integration
@@ -121,9 +117,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="33%">
       <h3 align="center">AI Code Reviewer</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/ai_code_reviewer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=ai_code_reviewer&theme=default" alt="AI Code Reviewer"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/ai_code_reviewer">View Repository</a></strong>
       </p>
       <p align="center">
         AI-powered code review tool for automated quality assurance and best practice enforcement
@@ -134,9 +128,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="50%" colspan="2">
       <h3 align="center">MVVM Architecture</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/mvvm_architecture">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=mvvm_architecture&theme=default" alt="MVVM Architecture"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/mvvm_architecture">View Repository</a></strong>
       </p>
       <p align="center">
         Production-ready MVVM architecture template for scalable Flutter applications
