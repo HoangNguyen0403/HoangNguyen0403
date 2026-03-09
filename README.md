@@ -1,7 +1,7 @@
 <h1 align="center">Nguyen Huy Hoang</h1>
-<h3 align="center">Senior Mobile Engineer | Flutter & Cross-Platform Development Specialist</h3>
+<h3 align="center">Senior Software Engineer | Mobile, AI-Enabled Workflows & Product Engineering</h3>
 <p align="center">
-  <em>Building scalable mobile solutions that drive business growth and user engagement</em>
+  <em>Building scalable products across mobile, automation, and developer experience</em>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 👨‍💼 Professional Summary
 
-Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and cross-platform development, currently delivering high-impact solutions at **VMO Holding**. Passionate about creating performant, scalable mobile applications that solve real business challenges and enhance user experiences.
+Results-driven **Software Engineer** with a strong foundation in **Flutter**, **Dart**, and cross-platform product delivery, while actively expanding into **AI-assisted engineering workflows**, **developer tooling**, and automation. Currently delivering high-impact solutions at **VMO Holding**, with a focus on building performant, scalable products that solve real business challenges and improve team velocity.
 
 ### ⚡ Impact Snapshot
 - 🚀 Delivered **15+ production apps** across fintech, e-commerce, and enterprise over the past **5 years**, shipped to Google Play/App Store.
@@ -30,9 +30,11 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ### 🎯 What I Bring to Your Organization
 
 - ✅ **Proven Track Record**: Successfully delivered enterprise-grade mobile applications with focus on performance, scalability, and user satisfaction
-- ✅ **Technical Leadership**: Strong foundation in mobile architecture patterns (MVVM, Clean Architecture) and best practices
+- ✅ **Technical Leadership**: Strong foundation in mobile architecture patterns (MVVM, Clean Architecture), delivery standards, and engineering best practices
 - ✅ **Cross-Platform Expertise**: Proficient in Flutter, Android (Kotlin), and iOS (Swift) development
-- ✅ **Innovation Mindset**: Actively exploring emerging technologies (IoT, AR/VR) to stay ahead of industry trends
+- ✅ **AI & Automation Focus**: Building AI-assisted code review flows, reusable agent standards, and productivity tooling for modern teams
+- ✅ **Product Engineering Mindset**: Comfortable working across mobile apps, integrations, CI/CD, and developer experience improvements
+- ✅ **Innovation Mindset**: Actively exploring AI, IoT, and emerging product technologies to stay ahead of industry trends
 - ✅ **Knowledge Sharing**: Regular technical writer on Medium, contributing to the developer community
 - ✅ **Open Source Contributor**: Active contributor to public repositories, supporting the Flutter and mobile development community
 - ✅ **Collaborative Spirit**: Open to partnerships, open-source contributions, and freelance opportunities
@@ -45,6 +47,8 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter)
@@ -61,6 +65,12 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 - Repository Pattern
 - State Management (Provider, Bloc, Riverpod)
 
+### AI, Automation & Developer Experience
+- AI-assisted code review workflows
+- Prompt and agent skill standardization
+- GitHub Actions automation
+- Developer tooling for quality and delivery speed
+
 ### Additional Skills
 - RESTful API Integration
 - Git Version Control & CI/CD
@@ -68,10 +78,10 @@ Results-driven **Mobile Engineer** with expertise in **Flutter**, **Dart**, and 
 - Agile/Scrum Methodologies
 - Performance Optimization
 
-### Emerging Technologies
+### Current Growth Areas
+- AI engineering workflows
+- Developer platforms & internal tooling
 - Internet of Things (IoT)
-- Augmented Reality (AR)
-- Virtual Reality (VR)
 
 ---
 
@@ -89,9 +99,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="33%">
       <h3 align="center">Agent Skills Standard</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/agent-skills-standard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=agent-skills-standard&theme=default" alt="Agent Skills Standard"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/agent-skills-standard">View Repository</a></strong>
       </p>
       <p align="center">
         Standardized skill definitions and interfaces for AI agents, promoting interoperability and consistency
@@ -100,9 +108,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="33%">
       <h3 align="center">Sheet Loader Localization</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/sheet_loader_localization">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=sheet_loader_localization&theme=default" alt="Sheet Loader"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/sheet_loader_localization">View Repository</a></strong>
       </p>
       <p align="center">
         Streamlined localization solution for Flutter apps with Google Sheets integration
@@ -111,9 +117,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="33%">
       <h3 align="center">AI Code Reviewer</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/ai_code_reviewer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=ai_code_reviewer&theme=default" alt="AI Code Reviewer"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/ai_code_reviewer">View Repository</a></strong>
       </p>
       <p align="center">
         AI-powered code review tool for automated quality assurance and best practice enforcement
@@ -124,9 +128,7 @@ I actively contribute to the open-source community with production-ready tools a
     <td width="50%" colspan="2">
       <h3 align="center">MVVM Architecture</h3>
       <p align="center">
-        <a href="https://github.com/HoangNguyen0403/mvvm_architecture">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoangNguyen0403&repo=mvvm_architecture&theme=default" alt="MVVM Architecture"/>
-        </a>
+        <strong><a href="https://github.com/HoangNguyen0403/mvvm_architecture">View Repository</a></strong>
       </p>
       <p align="center">
         Production-ready MVVM architecture template for scalable Flutter applications
@@ -139,7 +141,7 @@ I actively contribute to the open-source community with production-ready tools a
 
 ## 📝 Technical Writing & Thought Leadership
 
-I regularly share insights, tutorials, and best practices on **[Medium](https://medium.com/@hoangnguyen0403)**, covering topics in Flutter, Dart, and mobile development. Here are my latest articles:
+I regularly share insights, tutorials, and best practices on **[Medium](https://medium.com/@hoangnguyen0403)**, covering Flutter development, Dart, and recently exploring AI-enabled engineering workflows. Here are my latest articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [I built a CLI to manage AI Agent “Skills” using High-Density instructions &lpar;40% fewer tokens](https://hoangnguyen0403.medium.com/i-built-a-cli-to-manage-ai-agent-skills-using-high-density-instructions-40-fewer-tokens-637a11c81d5d?source=rss-9425c1fb6e6b------2)
@@ -159,9 +161,9 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 ---
 
 ## 🎯 What I'm Focusing On
-- 🧪 Experimenting with **AI copilots** inside mobile CI/CD workflows.
-- 📱 Building **high-performance Flutter UI kits** with accessibility baked in.
-- 🧭 Sharing **architecture playbooks** for fast-moving product teams.
+- 🧪 Designing **AI copilots and review assistants** that improve delivery quality.
+- 📱 Shipping **high-performance mobile experiences** with accessibility and maintainability baked in.
+- 🧭 Building **reusable engineering standards** that help teams move faster across stacks.
 
 ## 📊 GitHub Analytics
 
@@ -171,7 +173,7 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangNguyen0403&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=HoangNguyen0403&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -184,9 +186,10 @@ I regularly share insights, tutorials, and best practices on **[Medium](https://
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
-- 💼 **Career Opportunities** in mobile development
+
+- 💼 **Career Opportunities** in mobile development, product engineering, or AI-enabled workflows
 - 🤝 **Collaboration** on innovative projects
-- 💡 **Consulting** for mobile app architecture and development
+- 💡 **Consulting** for mobile app architecture, automation, and engineering workflows
 - 🎯 **Freelance Projects** that challenge and inspire
 - 🌟 **Open Source Contributions** and community initiatives
 
@@ -210,7 +213,7 @@ I'm always interested in discussing:
 ---
 
 <p align="center">
-  <i>⭐ Open to exciting opportunities that leverage my expertise in mobile development to drive business success ⭐</i>
+  <i>⭐ Open to opportunities across mobile, developer tooling, and AI-enabled product engineering ⭐</i>
 </p>
 
 <p align="center">
